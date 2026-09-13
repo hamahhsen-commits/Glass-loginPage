@@ -2,7 +2,7 @@
 
 A responsive login/registration popup UI built with **HTML, CSS, and vanilla JavaScript**. Features a glassmorphism-style card that slides between Login and Registration forms, triggered by a navbar button.
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48085898-a4b8-4981-bfc4-4edde3df9187" />
+<img width="1887" height="917" alt="Image" src="https://github.com/user-attachments/assets/5ad61d9a-b67d-4128-89ee-c0448b0d8f23" />
 
 ## ✨ Features
 
